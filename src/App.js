@@ -14,33 +14,6 @@ function App() {
            <div className="heading"><h1 className="title">Phonics<span className="title-span">Adventure</span></h1></div>
               <Greeting />
               <section className="home-section">
-                  // <Link to="phaseTwo">
-                  //   <div className="phase-two">
-                  //     <div>
-                  //       <h2>Phase 2</h2>
-                  //       <p>19 Letters</p>
-                  //     </div>
-                  //     <FaDove className="dove"/>
-                  //   </div>
-                  // </Link>
-                  // <Link to="phaseThree">
-                  // <div className="phase-three">
-                  //     <div> 
-                  //       <h2>Phase 3</h2>
-                  //       <p>25 Letters</p>
-                  //     </div>
-                  //     <FaFeatherAlt className="feather" />
-                  //   </div>
-                  // </Link>
-                  // <Link to="phaseFive">
-                  //   <div className="phase-five">
-                  //     <div>
-                  //       <h2>Phase 5</h2>
-                  //       <p>22 Sounds</p>
-                  //     </div>
-                  //     <GiButterfly className="butterfly" />
-                  //   </div>
-                  // </Link>
                   <Link to="games">
                   <div className="quiz-button">
                       <div> 
